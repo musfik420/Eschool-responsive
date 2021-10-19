@@ -1,0 +1,351 @@
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+  
+    /* CSS */
+    
+  }
+  
+  /* 
+    ##Device = Laptops, Desktops
+    ##Screen = B/w 1025px to 1280px
+  */
+  
+  @media (min-width: 1025px) and (max-width: 1280px) {
+    
+    /* CSS */
+    
+  }
+  
+  /* 
+    ##Device = Tablets, Ipads (portrait)
+    ##Screen = B/w 768px to 1024px
+  */
+  
+  @media (min-width: 768px) and (max-width: 1024px) {
+    
+    .banner {
+      padding: 20px 0px;
+    }
+    .banner h4 {
+      font-size: 40px;
+      line-height: 50px;
+      margin-top: 20px;
+    }
+    .banner h1 {
+      font-size: 65px;
+      line-height: 75px;
+      margin-bottom: 15px;
+      font-weight: 600;
+    } 
+    .banner p {
+        font-size: 22px;
+        line-height: 32px;
+        margin-bottom: 15px;
+    }  
+    .main-menu .navbar-light .navbar-nav .nav-link {
+      font-size: 20px;
+    }          
+    .main-menu .nav-item .btn-success {
+        margin: 0px;
+        padding: 10px 25px;
+        /* margin-top: 10px; */
+        font-size:16px;
+    }
+    .banner .btn-success {
+        padding: 15px 35px;
+        font-size:16px;
+        margin-bottom: 35px;
+    }  
+    .inner-feature {
+      padding: 80px 20px;
+    }       
+    .inner-feature img {
+        width: 65px;
+        height: 75px;
+    }   
+    .online-course .title {
+        margin-bottom: 40px;
+    } 
+    .online-course .card {
+      margin-bottom: 75px;
+    }
+    .online-course .card-body .btn-success {
+      font-size: 12px;
+      padding: 9px 23px;
+    }  
+    .online-course .card-body .icons {
+        font-size: 16px;
+        line-height: 26px;
+    }       
+    .right {
+      text-align: right;
+    }    
+    .testimonial img {
+      width: 110px;
+      height: 110px;
+    }
+    .testimonial .title {
+      margin-bottom: 40px;
+    }
+      
+  }
+  
+  /* 
+    ##Device = Tablets, Ipads (landscape)
+    ##Screen = B/w 768px to 1024px
+  */
+  
+  @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+    
+    /* CSS */
+    
+  }
+  
+  /* 
+    ##Device = Low Resolution Tablets, Mobiles (Landscape)
+    ##Screen = B/w 481px to 767px
+  */
+  
+  @media (min-width: 481px) and (max-width: 767px) {
+    
+    /* CSS */
+    
+  }
+  
+  /* 
+    ##Device = Most of the Smartphones Mobiles (Portrait)
+    ##Screen = B/w 320px to 479px
+  */
+  
+  @media (min-width: 320px) and (max-width: 480px) {
+    .banner {
+        padding: 20px 0px;
+    }
+    .banner h1 {
+        font-size: 37px;
+        line-height: 47px;
+        margin-bottom: 15px;
+    }
+    .banner p {
+        font-size: 16px;
+        line-height: 26px;
+        margin-bottom: 15px;
+    }  
+    .main-menu .nav-item .btn-success {
+        margin: 0px;
+        font-size: 14px;
+        padding: 6px 14px;
+    }
+    .banner .btn-success {
+        font-size: 12px;
+        padding: 9px 15px;
+        margin-bottom: 35px;
+    }     
+    .inner-feature img {
+        width: 65px;
+        height: 75px;
+    }   
+    .online-course .title {
+        margin-bottom: 40px;
+    } 
+    .online-course .card {
+      margin-bottom: 75px;
+    }
+    .online-course .card-body .btn-success {
+      font-size: 12px;
+      padding: 9px 23px;
+    }   
+    .right {
+      text-align: left;
+    }    
+    .testimonial img {
+      width: 110px;
+      height: 110px;
+      margin-top: 15px;
+    }
+    .testimonial .title {
+      margin-bottom: 40px;
+    }
+}
+
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+  
+    /* CSS */
+    
+  }
+  
+  /* 
+    ##Device = Laptops, Desktops
+    ##Screen = B/w 1025px to 1280px
+  */
+  
+  @media (min-width: 1025px) and (max-width: 1280px) {
+    
+    /* CSS */
+    
+  }
+  
+  /* 
+    ##Device = Tablets, Ipads (portrait)
+    ##Screen = B/w 768px to 1024px
+  */
+  
+  @media (min-width: 768px) and (max-width: 1024px) {
+    
+    .banner {
+      padding: 20px 0px;
+    }
+    .banner h4 {
+      font-size: 40px;
+      line-height: 50px;
+      margin-top: 20px;
+    }
+    .banner h1 {
+      font-size: 65px;
+      line-height: 75px;
+      margin-bottom: 15px;
+      font-weight: 600;
+    } 
+    .banner p {
+        font-size: 22px;
+        line-height: 32px;
+        margin-bottom: 15px;
+    }  
+    .main-menu .navbar-light .navbar-nav .nav-link {
+      font-size: 20px;
+    }          
+    .main-menu .nav-item .btn-success {
+        margin: 0px;
+        padding: 10px 25px;
+        /* margin-top: 10px; */
+        font-size:16px;
+    }
+    .banner .btn-success {
+        padding: 15px 35px;
+        font-size:16px;
+        margin-bottom: 35px;
+    }  
+    .inner-feature {
+      padding: 80px 20px;
+    }       
+    .inner-feature img {
+        width: 65px;
+        height: 75px;
+    }   
+    .online-course .title {
+        margin-bottom: 40px;
+    } 
+    .online-course .card {
+      margin-bottom: 75px;
+    }
+    .online-course .card-body .btn-success {
+      font-size: 12px;
+      padding: 9px 23px;
+    }  
+    .online-course .card-body .icons {
+        font-size: 16px;
+        line-height: 26px;
+    }       
+    .right {
+      text-align: right;
+    }    
+    .testimonial img {
+      width: 110px;
+      height: 110px;
+    }
+    .testimonial .title {
+      margin-bottom: 40px;
+    }
+      
+  }
+  
+  /* 
+    ##Device = Tablets, Ipads (landscape)
+    ##Screen = B/w 768px to 1024px
+  */
+  
+  @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+    
+    /* CSS */
+    
+  }
+  
+  /* 
+    ##Device = Low Resolution Tablets, Mobiles (Landscape)
+    ##Screen = B/w 481px to 767px
+  */
+  
+  @media (min-width: 481px) and (max-width: 767px) {
+    
+    /* CSS */
+    
+  }
+  
+  /* 
+    ##Device = Most of the Smartphones Mobiles (Portrait)
+    ##Screen = B/w 320px to 479px
+  */
+  
+  @media (min-width: 320px) and (max-width: 480px) {
+    .banner {
+        padding: 20px 0px;
+    }
+    .banner h1 {
+        font-size: 37px;
+        line-height: 47px;
+        margin-bottom: 15px;
+    }
+    .banner p {
+        font-size: 16px;
+        line-height: 26px;
+        margin-bottom: 15px;
+    }  
+    .main-menu .nav-item .btn-success {
+        margin: 0px;
+        font-size: 14px;
+        padding: 6px 14px;
+    }
+    .banner .btn-success {
+        font-size: 12px;
+        padding: 9px 15px;
+        margin-bottom: 35px;
+    }     
+    .inner-feature img {
+        width: 65px;
+        height: 75px;
+    }   
+    .online-course .title {
+        margin-bottom: 40px;
+    } 
+    .online-course .card {
+      margin-bottom: 75px;
+    }
+    .online-course .card-body .btn-success {
+      font-size: 12px;
+      padding: 9px 23px;
+    }   
+    .right {
+      text-align: left;
+    }    
+    .testimonial img {
+      width: 110px;
+      height: 110px;
+      margin-top: 15px;
+    }
+    .testimonial .title {
+      margin-bottom: 40px;
+    }
+}
+
+
+
+
